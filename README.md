@@ -1,4 +1,4 @@
-hey!!
+hello!!
 I am aakash palliwar
 
 This is a Online Voting Platform built using Node.js ,Postgresql,Tailwincss,Express.js which allows 
