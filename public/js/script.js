@@ -1,1 +1,1 @@
-console.log("Ashish Voting Application")
+console.log("Aakash digital voting application")
